@@ -31,7 +31,7 @@ The should be able to:
 4. Discharge a bot from their service forever, by clicking the red button marked "x", which would delete the bot both from the backend and from the YourBotArmy on the frontend.
 
 # Author && License
-* "author": "Bob Oyier",
+* (Bob Oyier)[https://github.com/oyieroyier]
 
 
 ### ISC License (ISC)
